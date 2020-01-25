@@ -12,3 +12,8 @@ Jawaban ini menggunakan bahasa PHP dan metode REGEX, akan menampilkan hasil jika
 
 `echo usernameValidity("j0hn5m!th");`
 
+###### Soal no.3
+
+Sebelumnya saya membuat konsep dengan alphabet, seperti ab,ac,bc, dan menentukan konsepnya dengan metode loop
+
+`echo count_handshake(9);`
