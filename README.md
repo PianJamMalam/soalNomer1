@@ -23,3 +23,9 @@ Sebelumnya saya membuat konsep dengan alphabet, seperti ab,ac,bc, dan menentukan
 Dalam memecahkan kasus ini, saya rasa kode yang saya buat terlalu panjang, namun tetap berhasil, karena kode yang saya buat masih double statement padahal fungsi atau alur yang saya jalankan tidak beda jauh
 
 `echo findDuplicates("adobe");`
+
+###### Soal no.5
+
+Ini merupakan soal yang paling mudah, dengan mengecek value terbesar dari sebuah array dan mencari posisinya serta ditambahkan logika, maka fungsi ini dapat berjalan dengan baik
+
+`echo findHighestProfit([33, 29, 11, 3]);`
