@@ -17,3 +17,9 @@ Jawaban ini menggunakan bahasa PHP dan metode REGEX, akan menampilkan hasil jika
 Sebelumnya saya membuat konsep dengan alphabet, seperti ab,ac,bc, dan menentukan konsepnya dengan metode loop
 
 `echo count_handshake(9);`
+
+###### Soal no.4
+
+Dalam memecahkan kasus ini, saya rasa kode yang saya buat terlalu panjang, namun tetap berhasil, karena kode yang saya buat masih double statement padahal fungsi atau alur yang saya jalankan tidak beda jauh
+
+`echo findDuplicates("adobe");`
